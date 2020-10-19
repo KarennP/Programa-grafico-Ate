@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Programa-grafico-Ate/static/css/main.f073bfd5.chunk.css",
+    "main.js": "/Programa-grafico-Ate/static/js/main.6f4853c8.chunk.js",
+    "main.js.map": "/Programa-grafico-Ate/static/js/main.6f4853c8.chunk.js.map",
+    "runtime-main.js": "/Programa-grafico-Ate/static/js/runtime-main.fa80e51d.js",
+    "runtime-main.js.map": "/Programa-grafico-Ate/static/js/runtime-main.fa80e51d.js.map",
+    "static/css/2.c3fe2082.chunk.css": "/Programa-grafico-Ate/static/css/2.c3fe2082.chunk.css",
+    "static/js/2.b125675a.chunk.js": "/Programa-grafico-Ate/static/js/2.b125675a.chunk.js",
+    "static/js/2.b125675a.chunk.js.map": "/Programa-grafico-Ate/static/js/2.b125675a.chunk.js.map",
+    "index.html": "/Programa-grafico-Ate/index.html",
+    "precache-manifest.9bc09f264d11823402bb595b7020ac1c.js": "/Programa-grafico-Ate/precache-manifest.9bc09f264d11823402bb595b7020ac1c.js",
+    "service-worker.js": "/Programa-grafico-Ate/service-worker.js",
+    "static/css/2.c3fe2082.chunk.css.map": "/Programa-grafico-Ate/static/css/2.c3fe2082.chunk.css.map",
+    "static/css/main.f073bfd5.chunk.css.map": "/Programa-grafico-Ate/static/css/main.f073bfd5.chunk.css.map",
+    "static/js/2.b125675a.chunk.js.LICENSE.txt": "/Programa-grafico-Ate/static/js/2.b125675a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa80e51d.js",
+    "static/css/2.c3fe2082.chunk.css",
+    "static/js/2.b125675a.chunk.js",
+    "static/css/main.f073bfd5.chunk.css",
+    "static/js/main.6f4853c8.chunk.js"
+  ]
+}
